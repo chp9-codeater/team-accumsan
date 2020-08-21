@@ -1,0 +1,9 @@
+title: Lorem Ipsum Inc.
+lead: TBD
+description: TBD
+copyright: Copyright &copy; 2020 Lorem Ipsum Inc., All rights reserved.
+remote_theme: chp9-codeater/dminima
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
