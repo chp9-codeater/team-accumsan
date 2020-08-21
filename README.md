@@ -2,7 +2,7 @@
 title: Team Accumsan
 lead: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 description: Nullam eu erat et nisl vehicula bibendum.
-parent: Department Nam
+parent: Departement Nam
 ---
 
 ## Quisque in augue sodales
